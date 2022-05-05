@@ -3,12 +3,13 @@
   flex-direction: column;
   max-width: 480px;
   padding: 12px;
-  background-color: rgba(211, 207, 207, 0.61);
+  background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 4px;
 }
 
 .feedback-form label {
+  background-color: bisque;
   display: flex;
   flex-direction: column;
   margin-bottom: 16px;
